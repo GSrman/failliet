@@ -1,3 +1,3 @@
 # failliet
 The amount of tweets with "failliet" in April 2019 compared to April 2020, to find if covid pandamic had remarkable effect on twitter usage.
-#### More info can be found in the Bankrupt_in_covid_times_.pdf report.
+#### More info can be found in the Bankrupt_in_covid_times__revised_.pdf report.
